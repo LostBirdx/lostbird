@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[135],{2323:function(s){s.exports=JSON.parse('{"allTagsPath":"/lostbird/blog/tags","slug":"/lostbird/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/lostbird/blog/tags/docusaurus"}')}}]);
